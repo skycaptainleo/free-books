@@ -23,6 +23,7 @@
 1. [探索 ES2016 和 ES2017](https://exploringjs.com/es2016-es2017.html)
 1. [探索 ES2018 和 ES2019](https://exploringjs.com/es2018-es2019/toc.html)
 1. [ES6 标准入门](http://es6.ruanyifeng.com/)（中文）
+1. [Eloquent JavaScript（第三版）](https://eloquentjavascript.net/)
 1. [React 编程模式](https://github.com/krasimir/react-in-patterns)
 1. [React 应用开发教程](https://github.com/tyroprogrammer/learn-react-app/tree/master/src/tutorial)
 1. [Acceptance Test Driven Development with React](https://leanpub.com/build-react-app-with-atdd)
@@ -46,6 +47,8 @@
 1. [学习命令行](https://hellowebbooks.com/learn-command-line/)
 1. [鸟哥的 Linux 私房菜](https://linux.vbird.org/linux_basic/centos7/)（中文）
 1. [Linux 之旅](https://linuxjourney.com/)
+1. [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
+1. [Unix 编程艺术](http://www.catb.org/~esr/writings/taoup/html/)
 1. [计算机系统导论：以汇编语言与 Linux 系统为例](http://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)
 1. [计算机网络：系统方法](https://github.com/SystemsApproach/book)
 1. [计算机组织导论：以树莓派和 ARM 汇编语言为例](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/frontmatter-1.html)
@@ -75,6 +78,7 @@
 
 ### Python
 
+1. [Python 编程基础](https://archive.org/details/2018Fundamentals.ofPython)（PDF）
 1. [Python 语法笔记](https://thomas-cokelaer.info/tutorials/python/index.html)
 1. [Python 科学应用入门](http://www.freetechbooks.com/introduction-to-python-for-computational-science-and-engineering-t884.html)（Introduction to Python for Computational Science and Engineering）, [下载](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
 1. [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)（中文）
@@ -87,6 +91,7 @@
 1. [如何使用 Python3 编程](https://www.digitalocean.com/community/tutorials/digitalocean-ebook-how-to-code-in-python)
 1. [数据科学项目 Python 实战](https://www.digitalocean.com/community/tutorials/machine-learning-projects-python-a-digitalocean-ebook)
 1. [HelloDjango - Django 博客教程](https://www.zmrenwu.com/courses/HelloDjango-blog-tutorial/)（中文）
+1. [使用 Python 学习计量经济学](https://lectures.quantecon.org/_downloads/pdf/py/Quantitative%20Economics%20with%20Python.pdf)（PDF）
 
 ### Rust
 
@@ -99,10 +104,13 @@
 1. [编程语言基础：Agda 语言描述](https://agda-zh.github.io/PLFA-zh/)（中文）
 1. [Awk 编程语言](https://ia802309.us.archive.org/25/items/pdfy-MgN0H1joIoDVoIC7/The_AWK_Programming_Language.pdf)
 1. [C# 语言免费教程](https://www.tutlane.com/tutorial/csharp/csharp-tutorial)
+1. [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
+1. [学习 ClojureScript](https://www.learn-clojurescript.com/)
 1. [计算机科学：以 Julia 语言为例](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
 1. [使用 Julia 语言学习统计学](https://people.smp.uq.edu.au/YoniNazarathy/julia-stats/StatisticsWithJulia.pdf)（PDF）
 1. [Haskell 趣学指南](http://fleurer.github.io/lyah/)（中文）
 1. [Real World Haskell 中文版](http://cnhaskell.com/index.html)（中文）
+1. [Haskell 语言48小时教程](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 1. [Common Lisp 实战教程](http://www.gigamonkeys.com/book/)
 1. [OCaml 语言在线教程](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
 1. [我爱 Ruby](https://i-love-ruby.gitlab.io/)
@@ -129,6 +137,8 @@
 1. [逆向工程入门](https://github.com/dennis714/RE-for-beginners)（Reverse Engineering for Beginners）, [下载](http://beginners.re/Reverse_Engineering_for_Beginners-en.pdf)
 1. [逆向工程初学者教程](https://www.begin.re/)
 1. [Qt5 教程](https://qmlbook.github.io/)
+1. [函数式编程：以 Scala 为例](https://github.com/winitzki/sofp)
+1. [学习 ClojureScript](https://www.learn-clojurescript.com/)
 
 ## 人工智能
 
@@ -148,6 +158,9 @@
 1. [让产品经理全面理解深度学习](https://easyai.tech/blog/65pdf-pm-understand-dl/)（中文）
 1. [面向机器学习的特征工程](http://fe4ml.apachecn.org/#/)（中文）
 1. [Dive into Deep Learning](http://www.d2l.ai/index.html)
+1. [数据科学基础](https://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf)
+1. [机器学习的数学基础](https://mml-book.github.io/)
+1. [自然语言处理](https://github.com/jacobeisenstein/gt-nlp-class/raw/master/notes/eisenstein-nlp-notes.pdf)
 
 ## 理论书籍
 
@@ -161,13 +174,15 @@
 1. [深度学习的线性代数基础](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/)
 1. [Seeing Theory：概率论和统计入门](https://seeing-theory.brown.edu/#firstPage)
 1. [线性代数教材](http://joshua.smcvt.edu/linearalgebra/#current_version)
+1. [沉浸式线性代数](http://immersivemath.com/ila/index.html)
 1. [Statistics Done Wrong](https://www.statisticsdonewrong.com/index.html)
 1. [计算机图形学教程](http://www.scratchapixel.com/)
 1. [计算机理论导论](https://introtcs.org/public/index.html)
 1. [好奇者的量子计算入门](https://quantum.country/qcvc)
 1. [简单逻辑](https://book.simply-logical.space/)
 1. [数据科学的原理与技巧](https://www.textbook.ds100.org/)
-1. [Prob 140](http://prob140.org/textbook/chapters/README)：概率论教材
+1. [统计小手册](http://www.jerrydallal.com/LHSP/LHSP.htm)
+1. [Prob 140](http://prob140.org/textbook/README)：概率论教材
 1. [写给科学家的范畴论](http://category-theory.mitpress.mit.edu/)（Category Theory for the Sciences）, [下载](https://github.com/mmai/Category-Theory-for-the-Sciences)
 1. [图论的 D3 解释](https://mrpandey.github.io/d3graphTheory/index.html)
  
